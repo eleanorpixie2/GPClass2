@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPClass2", "GPClass2\GPClass2.csproj", "{B45C5E86-89AC-4CDC-93DF-42A04F2E1258}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B45C5E86-89AC-4CDC-93DF-42A04F2E1258}.Debug|x86.ActiveCfg = Debug|x86
+		{B45C5E86-89AC-4CDC-93DF-42A04F2E1258}.Debug|x86.Build.0 = Debug|x86
+		{B45C5E86-89AC-4CDC-93DF-42A04F2E1258}.Release|x86.ActiveCfg = Release|x86
+		{B45C5E86-89AC-4CDC-93DF-42A04F2E1258}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4B63E2A-1FAB-4AB7-8B27-5926459761AA}
+	EndGlobalSection
+EndGlobal
